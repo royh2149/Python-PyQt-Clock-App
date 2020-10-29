@@ -16,9 +16,10 @@ This is a clock application created with PyQt5 uing MYSQL database. It features:
   - Move to the created directory
   - python3 App.py
   
-  tested on Linux.
-  to run from anywhere, edit /home/your-user/.bashrc and insert the line: alias myclock='S=$(pwd); cd /path/to/my_alarm; python3 App.py; cd $S'
+  Tested on Linux.
   
-*if you have copyrights on one of the images/sounds, please contact me*
+  To run from anywhere, edit /home/your-user/.bashrc and insert the line: alias myclock='S=$(pwd); cd /path/to/my_alarm; python3 App.py; cd $S'
+  
+*If you have copyrights on one of the images/sounds, please contact me*
 
 
